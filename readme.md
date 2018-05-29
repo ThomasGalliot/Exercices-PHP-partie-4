@@ -18,11 +18,11 @@ Faire une fonction qui prend en paramètre deux nombres. La fonction doit retour
 Faire une fonction qui prend en paramètre un nombre et une chaine de caractères et qui renvoit la concaténation de ces deux paramètres.
 
 ## Exercice 6
-Faire une fonction qui prend trois paramètres : **nom**, **prenom** et **age**. Elle doit renvoyer une chaine de la forme :  
-"Bonjour" + **nom** + **prenom** + ",tu as" + **age** + "ans".
+Faire une fonction qui prend trois paramètres : **le nom, le prénom et l'âge d'une personne**. Elle doit renvoyer une chaine de la forme :  
+"Bonjour" + **nom** + **prénom** + ",tu as" + **age** + "ans".
 
 ## Exercice 7
-Faire une fonction qui prend deux paramètres : **age** et **genre**. Le paramètre **genre** peut prendre comme valeur :
+Faire une fonction qui prend deux paramètres : **l'âge et le genre d'une personne**. Le genre peut être :
 - Homme
 - Femme  
 
