@@ -63,7 +63,7 @@
             return "Vous êtes une femme et vous êtes mineur";
 
         else
-            return "Vous ne pouvez pas être définit."
+            return "Vous ne pouvez pas être définit.";
     }
 ?>
 
